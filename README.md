@@ -19,3 +19,6 @@
 * 2× velkoplošná podložka Ø8 Zn
 * 3× korkový špunt
 * 3× provázek délky 300 mm
+# Cenová kalkulace
+* Cena součástek je cca do 400 Kč
+* Koupeno v Bauhaus Liberec :)
