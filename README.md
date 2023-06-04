@@ -22,3 +22,7 @@
 # Cenová kalkulace
 * Cena součástek je cca do 400 Kč
 * Koupeno v Bauhaus Liberec :)
+# Pracovní postup
+1.
+2.
+3.
