@@ -1,1 +1,2 @@
-<h1>Závodní překážka</h1>
+# O co se jedná
+* Tato závodní překážka slouží k závodům s Robocars
