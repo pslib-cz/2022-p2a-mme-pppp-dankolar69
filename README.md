@@ -5,6 +5,9 @@
 * Cílem je projet mezi provázky ve stylu slalomu co nejrychleji a bez dotknutí se žádného z nich
 * Taková překážka ve stylu slalomu poskytuje výzvu pro robotická auta, která musí prokázat rychlost, obratnost a schopnost přesného řízení
 * Je to také skvělý způsob, jak porovnávat výkony různých robotických vozidel a soutěžit ve zručnostech jejich ovládání
+
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Model.jpeg)
+
 # Potřebné věci pro realizaci
 * Dřevěná hoblovaná lať 20×50×1000
 * 2× dřevěná hoblovaná lať 20×50×300
