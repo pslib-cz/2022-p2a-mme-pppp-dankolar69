@@ -1,4 +1,4 @@
-# O co se jedná
+# O projektu
 * Tato závodní překážka slouží k závodům s Robocars
 * Překážka se skládá z řady provázků s korkami umístěných ve vzájemné vzdálenosti
 * Obvykle jsou provázky rozmístěny tak, aby vytvořily úzkou cestu, kterou musí robotické auto projíždět
