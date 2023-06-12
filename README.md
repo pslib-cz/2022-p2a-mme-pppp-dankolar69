@@ -6,7 +6,7 @@
 * Taková překážka ve stylu slalomu poskytuje výzvu pro robotická auta, která musí prokázat rychlost, obratnost a schopnost přesného řízení
 * Je to také skvělý způsob, jak porovnávat výkony různých robotických vozidel a soutěžit ve zručnostech jejich ovládání
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Model.jpeg" alt="Image" width="720">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Model.jpeg" alt="Image">
 
 # Potřebné věci pro realizaci
 * Dřevěná hoblovaná lať 20×50×1000
