@@ -36,3 +36,7 @@
 5. Do prostředních děr těchto latí vložíme vratový šroub M8 a následně na šroub připojíme lať 20×50×1000 a zakončíme velkoplošnou podložkou Ø8 a křídlovou maticí M8 
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Manual%20Images/IMG_1879.jpg" alt="Image" width="300" >
+
+6. Jako poslední krok navážeme provázky s korkovými špunty podle libovolné délky na lať 20×50×1000
+
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Manual%20Images/IMG_1883.jpg" alt="Image" width="300" >
