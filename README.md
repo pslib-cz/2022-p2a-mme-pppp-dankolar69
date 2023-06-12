@@ -26,7 +26,8 @@
 1. Do obou latí 20×50×300 vyvrtáme na obou koncích díru o průměru 14 mm a přesně doprostřed (25 mm od kraje) díru o průměru 8 mm
 2. Do laťě 20×50×1000 vyvrtáme na obou koncích díru o průměru 8 mm (25 mm od kraje)
 3. Pro vytvoření tzv. brány pro Robocars si vezmeme lať 20×50×300 a do dvou děr o průměru 14 mm nasuneme závitovou tyč, u které z každé strany přidáme velkoplošnou podložku Ø14 a matici M14, tento krok zopakujeme pro vytvoření druhé brány
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Manual%20Images/IMG_1885.jpg" alt="Image" width="300" >
 4. Pro udržení stability přidáme na opačnou strany závitových tyčí matici M14
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Manual%20Images/IMG_1887.jpg" alt="Image" width="300" >
 5. Do prostředních děr těchto latí vložíme vratový šroub M8 a následně na šroub připojíme lať 20×50×1000 a zakončíme velkoplošnou podložkou Ø8 a křídlovou maticí M8 
-
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-dankolar69/blob/main/Manual%20Images/IMG_1879.jpg" alt="Image" width="300" >
